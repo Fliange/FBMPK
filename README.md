@@ -10,7 +10,7 @@ vector x, like $Ax$, $A^2x$, · · · , $A^kx$, and their linear combinations su
 Yichen Zhang, Shengguo Li, Fan Yuan, Dezun Dong, Xiaojian Yang, Tiejun Li, Zheng Wang: Memory-aware Optimization for Sequences of Sparse Matrix-Vector Multiplications
 
 # Software dependences
-GNU Compiler(GCC) V8.2
+GNU Compiler(GCC) V12.1
 
 Intel oneAPI 2022.1.2
 
