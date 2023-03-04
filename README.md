@@ -45,3 +45,5 @@ The makefile corresponding to this program:
     .PHONY: abmc_MPK 
     
  Note that in order to use mkl on your machine, you need to modify MKLFLAGS.
+ This part of the code does not include preprocessing. audikw_1.zip is the matrix we reordered with ABMC in advance, you can use this matrix for verification.
+ 
